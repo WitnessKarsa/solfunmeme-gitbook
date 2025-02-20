@@ -4,6 +4,32 @@ description: Agent Customization
 
 # 🛠️ Features
 
+### Fine Grain Security approval system for agent actions
+
+Kernel level access control and monitoring of processes via linux perf
+
+Custom kernel modules for each block of code to ensure its correctness
+
+### Dynamic loading and patching of code using zkp and ZOS for proving the validity of quality attributes
+
+Succinct
+Sufficient
+Correct
+Typesafe
+Secure
+Contained
+Atomic
+Distributed
+
+### Observability
+
+open telemetry and observability OTEL as implemented by ZIPKIN, and SIGNOZ and others
+
+#### Introspection 
+
+deep knowledge of internal open source frameworks, lore, history and changes
+
+
 ### Multiple Agent Frameworks
 
 We support multiple agents, and give them an audited, compliant safe execution environment to work in and collaborate with human partners.
